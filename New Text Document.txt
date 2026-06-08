@@ -53,5 +53,5 @@ POST /api/history/click: Saves the article metadata to DynamoDB with a timestamp
 GET /api/history: Queries DynamoDB for items matching the clientId, sorted by date.
 Would you like me to create a .env file or add python-dotenv to your project to make these settings permanent?
 
-Access key - AKIA4AWBTFFRKFPGPQMC
-Secret key - O5IhvIp11oNRZTwanYScQDElXt7BOFTzitu1XtA0
+Access key - 
+Secret key - 
